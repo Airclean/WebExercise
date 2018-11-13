@@ -1,0 +1,17 @@
+img
+{
+	width: 30%;
+	float: left;
+	margin: 1.6%;
+}
+p
+{
+	font-family: Kurale;
+	font-size: 23px;
+	font-weight: 800;
+	padding-left: 12px;
+	border-bottom: 2px solid #f1f1f1;
+	width: 30%;
+	padding-bottom: 20px;
+	margin: 1.66%
+}
